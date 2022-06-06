@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi👋 I'm React Developer from St.Petersburg!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irina-mokh&hide=commits,prs&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **irina-mokh/irina-mokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
