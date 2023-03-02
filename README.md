@@ -1,8 +1,9 @@
 ### Hi👋 
 ## I'm Irina Mokh🌱!
-I'm a junior frontend developer(React).
+I'm a frontend developer(React).
 Have a passion to automate processes and explore.:monocle_face:
 
+[CV-portfolio](https://irina-mokh.notion.site/CV-Irina-Mokh-e57a9aafcd394dae8e4ba53e66d1b6a2)
 ### Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
