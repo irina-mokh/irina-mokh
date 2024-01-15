@@ -1,5 +1,5 @@
 ### Hi👋 
-## I'm Irina Mokh🌱!
+## I'm Irina!
 I'm a frontend developer(React).
 Have a passion to automate processes and explore.:monocle_face:
 
