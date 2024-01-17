@@ -1,7 +1,7 @@
 ### Hi👋 
 ## I'm Irina!
 I'm a frontend developer(React).
-Have a passion to automate processes and explore.:monocle_face:
+Have a passion to automate processes and explore.
 
 [CV-portfolio](https://irina-mokh.notion.site/CV-Irina-Mokh-e57a9aafcd394dae8e4ba53e66d1b6a2)
 ### Stack
